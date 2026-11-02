@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.csv
+models/
+results/
+results.txt
+*.pkl
+*.keras
+*.h5
+fig_class_distribution.pdf
+.DS_Store
